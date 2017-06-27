@@ -1,14 +1,9 @@
-package MenuMain;
+﻿package MenuMain;
 
 import IOExcel.InputExcel;
 import IOExcel.OutputExcel;
 import VOPackage.TotalVO;
 import VOPackage.VOTotalMng;
-
-//weekDisp 해결하기
-//monthDisp 수정하기
-//셀타입을 지정하는 방법은 없을까???(날짜로 지정)
-//날짜를 관리하는 방법이 String 보다 Date가 좋을까???
 
 public class Main {
 	public static void main(String[] args) throws Exception{
